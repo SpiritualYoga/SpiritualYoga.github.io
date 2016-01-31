@@ -1,11 +1,11 @@
 ---
-title: README
+title: Hello ashley - Here is my cat.
 author: Ashley
-date: 2013-04-30
+date: 2016-01-31
 template: article.jade
 ---
 
-Welcome to your new blog! This is the default blog template with RSS, pagination and an archive. There are other templates available -- run `wintersmith new --help` to list them.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XtOlcp1mNiw" frameborder="0" allowfullscreen></iframe>
 
 ## _Repeat after me:_ This is my blog. There are many like it, but this one is mine. My blog is my best friend. It is my life. I must master it as I must master my life. My blog, without me, is useless. Without my blog, I am useless.
 
