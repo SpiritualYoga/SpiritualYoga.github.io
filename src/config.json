@@ -1,6 +1,6 @@
 {
+  "output": "../.",
   "locals": {
-    "output": "../.",
     "url": "http://localhost:8080",
     "name": "The Wintersmith's blog",
     "owner": "Someone",
