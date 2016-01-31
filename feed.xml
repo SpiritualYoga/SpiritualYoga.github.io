@@ -14,7 +14,7 @@
       <pubDate>Sat, 30 Jan 2016 19:00:00 -0500</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/johnathans-cat/</guid>
       <author></author>
-      <description>&lt;center&gt;&lt;iframe style=&quot;margin:auto;&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/XtOlcp1mNiw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;</description>
+      <description>&lt;center&gt;&lt;div class='video-container'&gt;&lt;iframe style=&quot;margin:auto;&quot; width=&quot;320&quot; height=&quot;180&quot; src=&quot;https://www.youtube.com/embed/XtOlcp1mNiw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/center&gt;</description>
     </item>
     <item>
       <title>A red herring</title>
