@@ -14,6 +14,7 @@ block content
         if article.intro.length > 0
           != typogr(article.intro).typogrify()
         if article.hasMore
+          br
           p.more
             a(href=article.url) more
 

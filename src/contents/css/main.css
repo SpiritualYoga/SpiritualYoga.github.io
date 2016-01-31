@@ -226,6 +226,9 @@ footer .copy, footer .copy a {
   text-rendering: auto;
   letter-spacing: 1px;
 }
+.more {
+  float: right;
+}
 
 /* archive */
 
